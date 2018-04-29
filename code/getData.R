@@ -1,7 +1,7 @@
 library(data.table)
 
 #-############################################################################-
-#' Title
+#' Get data
 #'
 #' @param genre 
 #' @param minGiven 
